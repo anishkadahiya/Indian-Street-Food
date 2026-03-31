@@ -1,10 +1,9 @@
-/* RESET */
 body {
   margin: 0;
   font-family: 'Poppins', sans-serif;
   background: #f6f7fb;
   color: #222;
-  padding-top: 80px; /* FIX NAVBAR OVERLAP */
+  padding-top: 80px; 
 }
 
 /* NAVBAR */
